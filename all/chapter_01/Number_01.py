@@ -2,4 +2,4 @@
 
 # import statements
 import numpy as np
-import matplotlib.pyplot
+import matplotlib.pyplot as plt
